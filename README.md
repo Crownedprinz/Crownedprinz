@@ -4,15 +4,14 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=crownedprinz" alt="crownedprinz" /> </p>
 
 ## I'm a Full Stack Developer with over 5+ years in software development
-- 🔭 I’m currently working at [Sterling Bank Nigeria](https://www.linkedin.com/company/sterling-bank-plc/mycompany/)
+- 🔭 I’m currently working at [Sterling Bank Nigeria](https://www.linkedin.com/company/fidelity-investments/)
 - 🌱 I’m currently learning Data Structures and Algorithms 
 - 👯 I’m looking to collaborate with other creators
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🥅 2024 Goals: Contribute more to Open Source projects
 
 ### Connect with me:
 
-[<img align="left" alt="Crownedprinz | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Ademolajhon | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="C=lexbrayan | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 
 <br />
 
@@ -23,7 +22,6 @@
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="Angular" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/angular/angular.png" />
-<img align="left" alt="Android" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/android/android.png" />
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
@@ -33,11 +31,10 @@
 <br/>
 <br/><br/>
 
-[![Jay's github stats](https://github-readme-stats.vercel.app/api?username=crownedprinz)](https://github.com/crownedprinz)
+[![Alex's github stats](https://github-readme-stats.vercel.app/api?username=lekaneseyin)](https://github.com/lekaneseyin)
 
 <br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=crownedprinz&layout=compact)](https://github.com/crownedprinz)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=crownedprinz&layout=compact)](https://github.com/lekaneseyin)
 
-[twitter]: https://twitter.com/crownedprinz
-[linkedin]: https://www.linkedin.com/in/ademolajhon/
+[twitter]: https://twitter.com/lexbrayan
