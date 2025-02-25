@@ -39,5 +39,5 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=crownedprinz&layout=compact)](https://github.com/crownedprinz)
 
-[twitter]: https://twitter.com/crownedprinz
+[twitter]: https://twitter.com/cybar_ai
 [linkedin]: https://www.linkedin.com/in/ademolajhon/
