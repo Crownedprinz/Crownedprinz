@@ -3,15 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=crownedprinz" alt="crownedprinz" /> </p>
 
-## I'm a Full Stack Developer with over 5+ years in software development
-- 🔭 I’m currently working at [Sterling Bank Nigeria](https://www.linkedin.com/company/sterling-bank-plc/mycompany/)
+## I'm a Full Stack Developer with over 7+ years in software development
+- 🔭 I’m currently studying my masters at [Purdue University Fort Wayne](https://www.pfw.edu/)
 - 🌱 I’m currently learning Data Structures and Algorithms 
 - 👯 I’m looking to collaborate with other creators
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🥅 2025 Goals: Contribute more to Open Source projects especially in machine learning
 
 ### Connect with me:
 
-[<img align="left" alt="Crownedprinz | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="cybar_ai | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Ademolajhon | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
